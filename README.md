@@ -43,6 +43,7 @@ Este proyecto tiene como objetivo desarrollar un sistema de predicción de preci
 (https://car-price-app-337460867469.us-central1.run.app/)
 
 ## Diagrama de Arquitectura y Breve Explicación
+<img width="1051" height="541" alt="image" src="https://github.com/user-attachments/assets/fb033883-709c-4b42-bced-757adfc71b1a" />
 
 - Arquitectura básica: Ingesta de datos -> Preprocesamiento -> Entrenamiento del modelo -> Despliegue/API para predicción.
 - Utiliza notebooks de Jupyter y scripts Python para procesamiento y predicción.
